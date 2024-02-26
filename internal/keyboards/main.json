@@ -1,0 +1,45 @@
+{
+  "one_time": false,
+  "inline": false, 
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Займы",
+          "payload": ""
+        },
+        "color": "positive"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Кредистория",
+          "payload": ""
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Банкротство",
+          "payload": ""
+        },
+        "color": "primary"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "ОСАГО",
+          "payload": ""
+        },
+        "color": "primary"
+      }
+    ]
+  ]
+}
+
